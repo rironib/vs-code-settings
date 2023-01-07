@@ -1,4 +1,5 @@
 {
+  "files.autoSave": "onFocusChange",
   // editor
   "editor.fontSize": 18,
   "editor.fontFamily": "Fira Code, Ubuntu",
@@ -18,9 +19,11 @@
   // cursor
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
-  // config related to code formatting
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
   "[javascript]": {
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
@@ -63,6 +66,5 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  },
-  "files.autoSave": "onFocusChange"
+  }
 }
