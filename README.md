@@ -23,7 +23,7 @@ You can copy the json from settings.json file and paste it into your VS Code set
 
 Sumit Saha - [support@rironib.com](mailto:support@rironib.com)
 
-Youtube Channel: [https://youtube.com/RIRONiB](https://youtube.com/rironib)
+Youtube Channel: [https://youtube.com/RIRONiB](https://www.youtube.com/@RIRONiB)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
