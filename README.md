@@ -28,7 +28,7 @@ Youtube Channel: [https://youtube.com/RIRONiB](https://www.youtube.com/@RIRONiB)
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/rironib
+[youtube-url]: https://youtube.com/@RIRONiB
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/letslearnwithsumit
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
