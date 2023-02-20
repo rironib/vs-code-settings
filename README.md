@@ -21,7 +21,7 @@ You can copy the json from settings.json file and paste it into your VS Code set
 
 ## Contact
 
-Sumit Saha - [support@rironib.com](mailto:support@rironib.com)
+Email: - [support@rironib.com](mailto:support@rironib.com)
 
 Youtube Channel: [https://youtube.com/RIRONiB](https://www.youtube.com/@RIRONiB)
 
